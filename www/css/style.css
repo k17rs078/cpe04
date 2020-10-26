@@ -43,7 +43,7 @@
     
     #btnA {
         font-size: 20px;
-        position:absolute; top:380px; left:2%; width:43%; height:60px; 
+        position:absolute; top:380px; left:0%; width:43%; height:60px; 
            background-color: yellow;
            color: red
       
@@ -51,14 +51,14 @@
     
     #btnB {
         font-size: 20px;
-        position:absolute; top:380px; left:45%; width:25%; height:60px; 
+        position:absolute; top:380px; left:43%; width:32%; height:60px; 
          background-color: red;
            color:yellow 
     }
 
     #btnC {
         font-size: 20px;
-        position:absolute; top:380px; left:70%; width:28%; height:60px; 
+        position:absolute; top:380px; left:75%; width:25%; height:60px; 
          background-color: blue;
            color: red
     }
